@@ -36,9 +36,17 @@ We are a Corporation company of Content Creator teams.
 -> [Invite to your discord today!](https://discord.com/discovery/applications/673737213959208980)
 
 
+
+## Blu Fantasy Online Social Platform
+
+We have worked hard to create a social platform for all and creators to come share a space with all kinds of features, open market space for creators to sell their products and resources or share what they do! Sign up today and get 3 months of Tier 5 to RPForge!
+
+
 ### [Check out our website!](https://www.blufantasy.online/)
 
 
+## Discord Community
+We always welcome more! :D [Join us today!](https://discord.gg/yAvsJkYA) 
 <!--
 
 **Here are some ideas to get you started:**
