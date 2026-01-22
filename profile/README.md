@@ -3,29 +3,29 @@
 We are a Corporation company of Content Creator teams. 
 
 ## Hytale/Minecraft Plugins
-- BFO | MysticRealms: By MysticMight
-- BFO | MysticEvents: By MysticMight
-- BFO | MysticChat: By Kerzinator_24
-- BFO | BluRPG Engine: By Blu Studios
-- BFO | BluRPG Items: By Blu Studios
-- BFO | BluEssentials: By Blu Studios
+- BFO | MysticRealms: By **MysticMight**
+- BFO | MysticEvents: By **MysticMight**
+- BFO | MysticChat: By **Kerzinator_24**
+- BFO | BluRPG Engine: By **Blu Studios**
+- BFO | BluRPG Items: By **Blu Studios**
+- BFO | BluEssentials: By **Blu Studios**
 
 
 ## Game Servers
-- BFO | Modded Minecraft servers by Blu Studios & Ironworks Studios
-- BFO | Hytale Network by Blu Studios & Ironworks Studios - Server IP: play.blufantasy.online
-- BFO | Palworld Servers by Blu Studios
-- BFO | Project Zomboid by Aristale Studios
+- BFO | Modded Minecraft servers by **Blu Studios & Ironworks Studios**
+- BFO | Hytale Network by **Blu Studios & Ironworks Studios** - ***Server IP: play.blufantasy.online***
+- BFO | Palworld Servers by **Blu Studios**
+- BFO | Project Zomboid by **Aristale Studios**
 
 ## Blu Fantasy Online AI Network
 
-- [CAI](https://discord.com/discovery/applications/1354880499981746367): Coding AI by Blu Studios
-- [Lorninai](https://discord.com/discovery/applications/1354881226175021096): The StoryTeller AI by Blu Studios
-- [Munai](https://discord.com/discovery/applications/1263618477088833668): Music Universal Network AI By Blu Studios
+- [CAI](https://discord.com/discovery/applications/1354880499981746367): Coding AI by **Blu Studios**
+- [Lorninai](https://discord.com/discovery/applications/1354881226175021096): The StoryTeller AI by **Blu Studios**
+- [Munai](https://discord.com/discovery/applications/1263618477088833668): Music Universal Network AI By **Blu Studios**
 
 ## Discord Bots
 
-- RPForge: Custom tabletop RPG creator for discord! by Ironworks Studios
+- RPForge: Custom tabletop RPG creator for discord! by **Ironworks Studios**
 
 𝑯𝑬𝒀! 𝑹𝑶𝑳𝑬𝑷𝑳𝑨𝒀𝑬𝑹!
 Are you tired of the same old, tired out currency bots? Or perhaps you've spent a lot of time and effort trying to master a bot with 𝒕𝒐𝒐 𝒎𝒂𝒏𝒚 𝒓𝒆𝒔𝒕𝒓𝒊𝒄𝒕𝒊𝒐𝒏𝒔, and 𝒕𝒐𝒐 𝒇𝒆𝒘 𝒄𝒂𝒑𝒂𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔s? Stop 𝒓𝒐𝒍𝒍𝒊𝒏𝒈 𝒕𝒉𝒆 𝒅𝒊𝒄𝒆 every time you invite a new bot..
