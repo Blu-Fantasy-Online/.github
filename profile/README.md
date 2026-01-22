@@ -13,7 +13,7 @@ We are a Corporation company of Content Creator teams.
 
 ## Game Servers
 - BFO | Modded Minecraft servers by Blu Studios & Ironworks Studios
-- BFO | Hytale Network by Blu Studios - Server IP: play.blufantasy.online
+- BFO | Hytale Network by Blu Studios & Ironworks Studios - Server IP: play.blufantasy.online
 - BFO | Palworld Servers by Blu Studios
 - BFO | Project Zomboid by Aristale Studios
 
