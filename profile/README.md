@@ -13,15 +13,15 @@ We are a Corporation company of Content Creator teams.
 
 ## Game Servers
 - BFO | Modded Minecraft servers by Blu Studios & Ironworks Studios
-- BFO | Hytale Network by Blu Studios
+- BFO | Hytale Network by Blu Studios - Server IP: play.blufantasy.online
 - BFO | Palworld Servers by Blu Studios
 - BFO | Project Zomboid by Aristale Studios
 
 ## Blu Fantasy Online AI Network
 
-- CAI: Coding AI by Blu Studios
-- Lorninai: The StoryTeller AI by Blu Studios
-- Munai: Music Universal Network AI By Blu Studios
+- [CAI](https://discord.com/discovery/applications/1354880499981746367): Coding AI by Blu Studios
+- [Lorninai](https://discord.com/discovery/applications/1354881226175021096): The StoryTeller AI by Blu Studios
+- [Munai](https://discord.com/discovery/applications/1263618477088833668): Music Universal Network AI By Blu Studios
 
 ## Discord Bots
 
