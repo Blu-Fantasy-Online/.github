@@ -13,7 +13,7 @@ We are a Corporation company of Content Creator teams.
 
 ## Game Servers
 - BFO | Hytale Network by **Blu Studios** - ***Server IP: play.blufantasy.online***
-- BFO | Palworld Servers by **Blu Studios**
+- BFO | Palworld Servers by **Blu Studios** - Blu Pal Online
 
 
 ## Blu Fantasy Online AI Network
@@ -23,21 +23,15 @@ We are a Corporation company of Content Creator teams.
 - [Munai](https://discord.com/discovery/applications/1263618477088833668): Music Universal Network AI By **Blu Studios**
 
 
-## Blu Fantasy Online Social Platform
+## Blu Fantasy Online Website/Application
 
-We have worked hard to create a social platform for all and creators to come share a space with all kinds of features, open market space for creators to sell their products and resources or share what they do! Sign up today and get 3 months of Tier 5 to RPForge!
 
-- Forums!
 - Artwork!
-- Videos!
-- Music!
-- 3D-Models & Game assets!
-- Writings & Comics!
-- Plugins & Mods!
-- Minecraft Server lists!
-- Hytalte Server lists!
+- Writings! 
+- Comics & Manga!
+- Plugins! 
+- Mods!
 - Discord Server lists!
-- RoseHaven RP Hub!
 
 ### [Check out our website!](https://www.blufantasy.online/)
 
